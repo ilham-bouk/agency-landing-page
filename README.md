@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out my solution of this front-end coding challenge.
+Thanks for checking out my solution of this front-end coding challenge.<br>
 [Frontend Mentor](https://www.frontendmentor.io) challenges improve coding skills by building realistic projects.
 
 ## Table of contents
