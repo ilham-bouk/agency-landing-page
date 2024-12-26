@@ -1,7 +1,11 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
-Thanks for checking out my solution of this front-end coding challenge. 
-(https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+![Design preview for the Sunnyside agency landing page coding challenge](design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Thanks for checking out my solution of this front-end coding challenge.
+[Frontend Mentor](https://www.frontendmentor.io) challenges improve coding skills by building realistic projects.
 
 ## Table of contents
 
