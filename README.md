@@ -25,6 +25,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+I do not have access to the Figma sketch so the design is not pixel perfect.
+
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/agency-landing-page-vTrDMyJdz3
@@ -39,6 +41,7 @@ Users should be able to:
 - JavaScript
 - Flexbox
 - CSS Grid
+- Desktop-first workflow
 
 ## Author
 
