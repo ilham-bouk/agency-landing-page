@@ -15,10 +15,13 @@ Thanks for checking out my solution of this front-end coding challenge.<br>
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### The challenge
+
+This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS. The challenge is to build out this landing page and get it looking as close to the design as possible.
 
 Users should be able to:
 
@@ -46,4 +49,8 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 ## Author
 
 - Frontend Mentor - [@ilham-bouk](https://www.frontendmentor.io/profile/ilham-bouk)
-- LinkedIn - [Ilham Bouktir](https://www.linkedin.com/in/ilham-bouktir-0b266b31b) 
+- LinkedIn - [Ilham Bouktir](https://www.linkedin.com/in/ilham-bouktir-0b266b31b)
+
+## Acknowledgments
+
+A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/agency-landing-page-vTrDMyJdz3). It definitely helps to find new ways to code and find easier solutions!
